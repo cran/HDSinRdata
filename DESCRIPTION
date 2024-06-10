@@ -2,15 +2,15 @@ Package: HDSinRdata
 Type: Package
 Title: Data for the 'Mastering Health Data Science Using R' Online
         Textbook
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(person(given = "Alice",
            family = "Paul",
            role = c("aut", "cre"),
            email = "alice_paul@brown.edu"),
 	   person(given = "Hannah",
-           family = "Englinton",
+           family = "Eglinton",
            role = c("aut"),
-           email = "hannah_englinton@brown.edu"),
+           email = "hannah_eglinton@brown.edu"),
            person(given = "Jialin",
            family = "Liu",
            role = c("ctb")),
@@ -23,19 +23,19 @@ Authors@R: c(person(given = "Alice",
            role = c("ctb"))
            )
 Maintainer: Alice Paul <alice_paul@brown.edu>
-Description: Contains nine datasets used in the chapters and exercises of Paul, Alice (2023) "Health Data Science in R" <https://alicepaul.github.io/health-data-science-using-r/>.
+Description: Contains ten datasets used in the chapters and exercises of Paul, Alice (2023) "Health Data Science in R" <https://alicepaul.github.io/health-data-science-using-r/>.
 License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
 LazyDataCompression: xz
 Depends: R (>= 2.10)
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.1
 NeedsCompilation: no
-Packaged: 2024-02-22 13:21:42 UTC; Alice
+Packaged: 2024-06-10 18:01:42 UTC; alice
 Author: Alice Paul [aut, cre],
-  Hannah Englinton [aut],
+  Hannah Eglinton [aut],
   Jialin Liu [ctb],
   Joanna Walsh [aut],
   Xinbei Yu [ctb]
 Repository: CRAN
-Date/Publication: 2024-02-26 19:40:10 UTC
+Date/Publication: 2024-06-10 18:30:02 UTC
