@@ -110,8 +110,8 @@
 #' Here is a key for the coded body pain regions
 #' (S2 Fig from the linked paper):
 #'
-#' \if{html}{\figure{bodypainmap.png}{options: width = "35\%"}}
-#' \if{latex}{\figure{bodypainmap.png}{options: width = 7 cm}}
+#' \if{html}{\figure{bodypainmap.png}{options: style="width: 35\%;"}}
+#' \if{latex}{\figure{bodypainmap.png}{options: width = 260 px}}
 #'
 #' Note that, as described in the paper, PROMIS is short for Patient-Reported
 #' Outcomes Measurement Information System: the source of the validated

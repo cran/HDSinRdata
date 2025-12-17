@@ -1,3 +1,3 @@
-# overviewR 0.1.3
+# HDSinRdata 0.3.0
 
-Fixed bug in covid case and death data
+Update Latex figure width and fixed links
